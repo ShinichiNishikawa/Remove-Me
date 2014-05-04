@@ -5,7 +5,7 @@ Plugin URI: https://github.com/ShinichiNishikawa/Remove-Me
 Description: This is a plugin to allow users to remove their own account.
 Author: Shinichi Nishikawa
 Version: 0.0
-Author URI: http://ma.tt/
+Author URI: http://nskw-style.com
 */
 
 add_action( 'init', 'remove_me' );
